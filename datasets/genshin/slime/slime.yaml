@@ -1,0 +1,8 @@
+train: E:\yolov8\datasets\genshin\slime\dataSet\train.txt
+val: E:\yolov8\datasets\genshin\slime\dataSet\valid.txt
+
+names:
+  0: slime
+  1: ice_slime
+
+nc: 2

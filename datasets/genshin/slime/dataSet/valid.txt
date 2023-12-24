@@ -1,0 +1,6 @@
+datasets\genshin\slime\images\005.jpg
+datasets\genshin\slime\images\006.jpg
+datasets\genshin\slime\images\007.jpg
+datasets\genshin\slime\images\008.jpg
+datasets\genshin\slime\images\009.jpg
+datasets\genshin\slime\images\010.jpg

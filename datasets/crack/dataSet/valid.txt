@@ -1,0 +1,17 @@
+datasets\crack\images\016.jpg
+datasets\crack\images\021.jpg
+datasets\crack\images\026.jpg
+datasets\crack\images\051.jpg
+datasets\crack\images\052.jpg
+datasets\crack\images\071.jpg
+datasets\crack\images\082.jpg
+datasets\crack\images\088.jpg
+datasets\crack\images\100.jpg
+datasets\crack\images\106.jpg
+datasets\crack\images\110.jpg
+datasets\crack\images\115.jpg
+datasets\crack\images\204.jpg
+datasets\crack\images\302.jpg
+datasets\crack\images\309.jpg
+datasets\crack\images\311.jpg
+datasets\crack\images\319.jpg

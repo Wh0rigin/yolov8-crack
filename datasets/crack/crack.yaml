@@ -1,0 +1,7 @@
+train: E:\yolov8\datasets\crack\dataSet\train.txt
+val: E:\yolov8\datasets\crack\dataSet\valid.txt
+
+names:
+  0: crack
+
+nc: 1

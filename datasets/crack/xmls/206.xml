@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>206.jpg</filename>
+	<path>E:\yolov8\datasets\crack\images\206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>138</ymin>
+			<xmax>468</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
