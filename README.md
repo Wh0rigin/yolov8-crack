@@ -38,5 +38,9 @@
 ![Alt text](crack/crack_train/val_batch1_pred.jpg)
 
 
+### 数据标注
+采用labelimg进行标注，后使用voc_to_yolo转换标注格式，然后通过get_path()，随机分配评估数据集与训练数据集
+
+
 ### 声明
 数据来源于工业场景表面缺陷检测数据集及论文集(https://github.com/Charmve/Surface-Defect-Detection)。
