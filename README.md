@@ -9,16 +9,17 @@
 **注意：pytorch cuda的格式可能不一致，注意辨别。选用适合自己的cuda版本进行安装**
 
 ### 文件目录
+
 > crack/ 裂缝检测输出文件
-> datasets/ 数据集
-> detects/ 推理集
-> slime/ 史莱姆检测失败案例（数据集不够）
-> crack_predict.py 推理detects/crack下的所有图片的裂缝
-> crack_train.py 训练crack数据集
-> get_path.py 取出一些数据当作评估数据，在训练完毕后会进行评估
-> voc_to_yolo 将voc格式转换为yolo需要的labels格式
-> slime_*.py (一些史莱姆的失败案例)
-> yolov8n.pt 包含了模型的结构和训练好的参数的训练模型
+  datasets/ 数据集
+  detects/ 推理集
+  slime/ 史莱姆检测失败案例（数据集不够）
+  crack_predict.py 推理detects/crack下的所有图片的裂缝
+  crack_train.py 训练crack数据集
+  get_path.py 取出一些数据当作评估数据，在训练完毕后会进行评估
+  voc_to_yolo 将voc格式转换为yolo需要的labels格式
+  slime_*.py (一些史莱姆的失败案例)
+  yolov8n.pt 包含了模型的结构和训练好的参数的训练模型
 
 ### 使用
 `python crack_predict.py` 检测`detects/crack/*`中图片的裂缝，并输出到`crack/crack_predict/`下,输出文件包含，被标记的图片以及labels
